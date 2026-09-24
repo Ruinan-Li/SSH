@@ -142,9 +142,9 @@ ORDER BY avgScore DESC;
 
 ## 4. 提交说明
 
-报告、Cypher、CSV 和运行截图都在这个仓库里。学习通回复请粘贴本仓库地址：
+报告、Cypher、CSV 和运行截图都在这个分支里。学习通回复请粘贴：
 
-https://github.com/Ruinan-Li/tugraph-lab1
+https://github.com/Ruinan-Li/SSH/blob/tugraph-lab1/README.md
 
 参考资料：
 
