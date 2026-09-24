@@ -1,0 +1,6 @@
+director        movieCount  avgScore
+Peter Jackson   2           9.0
+Christopher Nolan 2         8.2
+
+Web 控制台把 9.0 显示为 9。Bolt 客户端返回 9.0 和 8.2。
+James Wan、Greta Gerwig、Zhang Yimou 各只执导 1 部，被 WHERE movieCount >= 2 过滤。

@@ -1,0 +1,6 @@
+.env
+tugraph-data/
+tugraph-log/
+__pycache__/
+.venv/
+*.pyc
