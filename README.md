@@ -140,11 +140,6 @@ ORDER BY avgScore DESC;
 
 ![聚合查询结果](screenshots/08-aggregation.png)
 
-## 4. 提交说明
-
-报告、Cypher、CSV 和运行截图都在这个分支里。学习通回复请粘贴：
-
-https://github.com/Ruinan-Li/SSH/blob/tugraph-lab1/README.md
 
 参考资料：
 
