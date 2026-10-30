@@ -1,11 +1,9 @@
-"""报告第10页训练调用的摘录，并非完整可运行实验。
+"""Node2Vec的Skip-gram训练调用片段。
 
 walks_as_tokens: TuGraph在真实图上生成的游走，节点编号转换为字符串。
 seed: 11、23、42、71、101之一。
-stable_hash: 原完整程序提供的稳定SHA-256 token哈希函数。
-Word2Vec: 原程序导入的Gensim类。
-
-该文件未补造上述输入或缺失的原实现，不包含数据库采样和分类部分。
+stable_hash: 调用方提供的稳定SHA-256 token哈希函数。
+Word2Vec: Gensim的Word2Vec类。
 """
 
 model = Word2Vec(

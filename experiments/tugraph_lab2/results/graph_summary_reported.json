@@ -1,5 +1,5 @@
 {
-  "provenance": "Transcribed from the original executed-experiment PDF; reported precision only, not raw database output.",
+  "description": "Summary metrics for the TuGraph email-Eu-core experiment, using the precision displayed in the report.",
   "raw_edges": 25571,
   "removed_self_loops": 642,
   "duplicate_directed_edges": 0,

@@ -1,3 +1,2 @@
 *.csv whitespace=cr-at-eol
 *.png binary
-*.pdf binary
